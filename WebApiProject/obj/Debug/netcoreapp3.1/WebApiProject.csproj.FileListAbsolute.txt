@@ -1,0 +1,138 @@
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.exe
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.deps.json
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.json
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.dev.json
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.pdb
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.AssemblyReference.cache
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfoInputs.cache
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfo.cs
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CoreCompileInputs.cache
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.RazorTargetAssemblyInfo.cache
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.Manifest.cache
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.Pack.cache
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApiProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApiProject.props
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApiProject.props
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApiProject.props
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiPr.F32AE1AA.Up2Date
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.pdb
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.genruntimeconfig.cache
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.xml
+D:\Computer Science\Programming\.Net Core MVC\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.xml
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.exe
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.deps.json
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.json
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.runtimeconfig.dev.json
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.pdb
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\WebApiProject.xml
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.AssemblyReference.cache
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfoInputs.cache
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.AssemblyInfo.cs
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CoreCompileInputs.cache
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.Manifest.cache
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\WebApiProject.StaticWebAssets.Pack.cache
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApiProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApiProject.props
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApiProject.props
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApiProject.props
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.RazorTargetAssemblyInfo.cache
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.csproj.CopyComplete
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.dll
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.xml
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.pdb
+D:\Hafiz junaid\WebApiProject\WebApiProject\obj\Debug\netcoreapp3.1\WebApiProject.genruntimeconfig.cache
